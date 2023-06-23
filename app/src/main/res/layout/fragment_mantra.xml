@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:fillViewport="false"
+    android:fitsSystemWindows="true"
+    tools:context=".mantra">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:background="@drawable/bhajanbg">
+
+        <TextView
+            android:id="@+id/hanumanchalisascroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="50dp"
+            android:scrollbars="vertical"
+            android:text="
+            \n                                       मंत्र       \n
+            \n 1. 'ॐ हं हनुमते नम:।'
+\nवाद-विवाद, न्यायालय आदि के लिए प्रयोग किया जा सकता है। \n
+
+\n2. 'ॐ हं हनुमते रुद्रात्मकायं हुं फट्।'
+ \nशत्रु से अधिक भय हो, जान-माल का डर हो, तो यह प्रयोग उचित रहेगा।\n
+
+\n3. 'ॐ हं पवननन्दनाय स्वाहा।'
+\nहनुमानजी के दर्शन सुलभ होते हैं, यदि नित्य यह पाठ किया जाए।\n
+
+\n4. 'ॐ नमो हरि मर्कट मर्कटाय स्वाहा।'
+ \nशत्रु बलवान होने पर यह जप निश्चित लाभ देता है।\n
+
+\n5. 'ॐ नमो भगवते आंजनेयाय महाबलाय स्वाहा।'
+\nअसाध्य रोगों के लिए इस मंत्र का प्रयोग करें।\n
+
+\n6. 'ॐ नमो भगवते हनुमते नम:।'
+\nसर्व सुख-शांति के लिए यह मंत्र जपें।\n
+
+\n7. 'दुर्गम काज जगत के जेते,सुगम अनुग्रह तुम्हरे तेते।'
+\nकठिन कार्यों की सफलता के लिए।\n
+
+\n8. 'और मनोरथ जो कोई लावै,सोई अमित जीवन फल पावै।'
+\nइच्छापूर्ति के लिए।\n
+
+\n9. 'अष्ट सिद्धि नौ निधि के दाता,अस बर दीन जानकी माता।'
+\nऐश्वर्य प्राप्ति के लिए।\n
+
+\n10.'सर्वदुःख निवारणार्थ – श्री हनुमान मंत्र |'
+\nऊँ नमो हनुमते रुद्रावताराय आध्यात्मिकाधिदैवीकाधिभौतिक तापत्रय निवारणाय रामदूताय स्वाहा।\n"
+            android:textColor="#964B00"
+            android:textSize="20sp"
+            android:textStyle="bold">
+
+        </TextView>
+    </ScrollView>
+
+</FrameLayout>

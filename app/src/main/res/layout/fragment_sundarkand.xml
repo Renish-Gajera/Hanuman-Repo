@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    tools:context=".sundarkand">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:background="@drawable/bhajanbg">
+
+
+        <TextView
+            android:id="@+id/hanumanchalisascroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="50dp"
+            android:gravity="center"
+            android:scrollbars="vertical"
+            android:text="
+            \nसंकटमोचन हनुमान अष्टक :-\n
+\nबाल समय रवि भक्षि लियो तब,
+\nतीनहुं लोक भयो अंधियारों\n
+
+\nताहि सो त्रास भयो जग को,
+\nयह संकट काहु सों जात  न टारो\n
+
+\nदेवन आनि करी विनती तब,
+\nछाड़ि दियो रवि कष्ट निवारो\n
+
+\nको नहीं जानत है जग में कपि,
+\nसंकटमोचन नाम तिहारो, को – १\n
+
+\nबालि की त्रास कपीस बसै गिरि,
+\nजात महाप्रभु पंथ निहारो\n
+
+\nचौंकि महामुनि शाप दियो तब ,
+\nचाहिए कौन बिचार बिचारो\n
+
+\nकैद्विज रूप लिवाय महाप्रभु,
+\nसो तुम दास के शोक निवारो, – को – २\n
+
+\nअंगद के संग लेन गए सिय,
+\nखोज कपीश यह बैन उचारो\n
+
+\nजीवत ना बचिहौ हम सो  जु ,
+\nबिना सुधि लाये इहाँ पगु धारो\n
+
+\nहेरी थके तट सिन्धु सबै तब ,
+\nलाए सिया-सुधि प्राण उबारो,-  को – ३\n
+
+\nरावण त्रास दई सिय को तब ,
+\nराक्षसि सो कही सोक निवारो\n
+
+\nताहि समय हनुमान महाप्रभु ,
+\nजाए महा रजनीचर मारो\n
+
+\nचाहत सीय असोक सों आगिसु ,
+\nदै प्रभु मुद्रिका सोक निवारो, -को – ४\n
+
+\nबान लग्यो उर लछिमन के तब ,
+\nप्राण तजे सुत रावन मारो\n
+
+\nलै गृह बैद्य सुषेन समेत ,
+\nतबै गिरि द्रोण सुबीर उपारो\n
+
+\nआनि संजीवन हाथ दई तब ,
+\nलछिमन के तुम प्रान उबारो, – को – ५\n
+
+\nरावन युद्ध अजान कियो तब ,
+\nनाग कि फांस सबै सिर डारो\n
+
+\nश्री रघुनाथ समेत सबै दल ,
+\nमोह भयो यह संकट भारो\n
+
+\nआनि खगेस तबै हनुमान जु ,
+\nबंधन काटि सुत्रास निवारो,-  को – ६\n
+
+\nबंधु समेत जबै अहिरावन,
+\nलै रघुनाथ पताल सिधारो\n
+
+\nदेवहिं पूजि भली विधि सों बलि ,
+\nदेउ सबै मिलि मन्त्र विचारो\n
+
+\nजाये सहाए भयो तब ही ,
+\nअहिरावन सैन्य समेत संहारो,- को – ७\n
+
+\nकाज किये बड़ देवन के तुम ,
+\nबीर महाप्रभु देखि बिचारो\n
+
+\nकौन सो संकट मोर गरीब को ,
+\nजो तुमसो नहिं जात है टारो\n
+
+\nबेगि हरो हनुमान महाप्रभु ,
+\nजो कछु संकट होए हमारो,-  को – ८\n
+
+\nदोहा-\n
+\nलाल देह लाली लसे , अरु धरि लाल लंगूर|
+\nबज्र देह दानव दलन , जय जय जय कपि सूर ||\n"
+            android:textColor="#964B00"
+            android:textSize="20sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+    </ScrollView>
+
+</FrameLayout>

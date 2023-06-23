@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".templeinfo"
+    android:background="@drawable/temple_info">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp">
+
+        <ImageView
+            android:id="@+id/templepic"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+
+            android:src="@drawable/wallsection">
+        </ImageView>
+
+
+        <TextView
+            android:id="@+id/templename"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:fontFamily="@font/cinzel_decorative_black"
+            android:gravity="center"
+            android:text="wallpaper"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold">
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/vollkorn_sc_bold"
+            android:text="place:-"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold">
+        </TextView>
+
+
+        <TextView
+            android:id="@+id/templeplace"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/josefin_sans_bold"
+            android:textStyle="bold">
+        </TextView>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:fontFamily="@font/vollkorn_sc_bold"
+            android:text="description:-"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold">
+        </TextView>
+
+
+        <TextView
+            android:id="@+id/templedescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:fontFamily="@font/josefin_sans_bold">
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </TextView>
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</ScrollView>

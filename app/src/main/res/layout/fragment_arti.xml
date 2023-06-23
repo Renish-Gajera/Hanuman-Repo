@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    tools:context=".arti">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bhajanbg"
+        android:layout_marginTop="48dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/hanumanchalisascroll"
+            android:layout_marginBottom="50dp"
+            android:textColor="#964B00"
+            android:textStyle="bold"
+            android:scrollbars="vertical"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:text="
+            \n आरती  \n
+            \nआरती कीजै हनुमान लला की ।
+\nदुष्ट दलन रघुनाथ कला की ॥\n
+
+\nजाके बल से गिरवर काँपे ।
+\nरोग-दोष जाके निकट न झाँके ॥\n
+
+\nअंजनि पुत्र महा बलदाई ।
+\nसंतन के प्रभु सदा सहाई ॥\n
+
+\nआरती कीजै हनुमान लला की ॥\n
+
+\nदे वीरा रघुनाथ पठाए ।
+\nलंका जारि सिया सुधि लाये ॥\n
+
+\nलंका सो कोट समुद्र सी खाई ।
+\nजात पवनसुत बार न लाई ॥\n
+
+\nआरती कीजै हनुमान लला की ॥\n
+
+\nलंका जारि असुर संहारे ।
+\nसियाराम जी के काज सँवारे ॥\n
+
+\nलक्ष्मण मुर्छित पड़े सकारे ।
+\nलाये संजिवन प्राण उबारे ॥\n
+
+\nआरती कीजै हनुमान लला की ॥\n
+
+\nपैठि पताल तोरि जमकारे ।
+\nअहिरावण की भुजा उखारे ॥\n
+
+\nबाईं भुजा असुर दल मारे ।
+\nदाहिने भुजा संतजन तारे ॥\n
+
+\nआरती कीजै हनुमान लला की ॥\n
+
+\nसुर-नर-मुनि जन आरती उतरें ।
+\nजय जय जय हनुमान उचारें ॥\n
+
+\nकंचन थार कपूर लौ छाई ।
+\nआरती करत अंजना माई ॥\n
+
+\nआरती कीजै हनुमान लला की ॥\n
+
+\nजो हनुमानजी की आरती गावे ।
+\nबसहिं बैकुंठ परम पद पावे ॥\n
+
+\nलंक विध्वंस किये रघुराई ।
+\nतुलसीदास स्वामी कीर्ति गाई ॥\n
+
+\nआरती कीजै हनुमान लला की ।
+\nदुष्ट दलन रघुनाथ कला की॥\n">
+
+        </TextView>
+
+
+    </ScrollView>
+
+
+</FrameLayout>
